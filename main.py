@@ -59,3 +59,9 @@ def eliminar_voto(numero_id: int):
     eliminar_documento(numero_id)
 
     return {"mensaje": "Voto eliminado"}
+
+"""
+    Muchas gracias profe Duber por todo el esfuerzo que ha hecho por nosotros, se nota mucho su dedicacion
+    y empeño en ayudrnos a aprender. Muchas gracias!
+"""
+
