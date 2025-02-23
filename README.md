@@ -23,3 +23,4 @@ El enfoque del negocio queda a elección del estudiante. Como sugerencia, se pue
 ---
 
 En este caso, el proyecto fue realizado por Santiago Diaz Echavarria y consta de un sistema API RESTful con FastAPI sobre un sistema de registro, modificacion y visualizacion de votos para una campaña institucional.
+Nuevamente, quisiera agradecer al profesor Duber Alexander Galvis Giraldo por su esfuerzo y dedicacion.
