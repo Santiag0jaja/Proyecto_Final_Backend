@@ -6,7 +6,7 @@ from service.voto_service import (
     cargar_votos, guardar_votos, generar_documento, eliminar_documento
 )
 
-app = FastAPI()
+app = FastAPI(title="Proyecto Votaciones", description="Sistema de gestión de votos con FastAPI", version="2.0")
 
 """Registrar y crear voto"""
 @app.post("/votos")
